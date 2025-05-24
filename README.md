@@ -20,27 +20,27 @@ This HR Analysis Dashboard is designed to provide actionable insights into an or
 - Data is imported from a structured Excel/CSV/SQL source.
 
 ## 📌 Key Features
-**Employee Overview**
+- **Employee Overview**
 
 Total Headcount, Active vs. Former Employees, Diversity Ratios, Avg. Age
 
-**Hiring & Attrition**
+- **Hiring & Attrition**
 
 Monthly Hiring, Resignation Trends, Tenure Distribution
 
-**Salary & Compensation Analysis**
+- **Salary & Compensation Analysis**
 
 Avg. Salary by Department, Bonus % Distribution, Country-wise Pay Differences
 
-**Departmental Insights**
+- **Departmental Insights**
 
 Staffing by Department, Job Title Mix, Business Unit Composition
 
-**Dynamic Filters**
+- **Dynamic Filters**
 
 Slice data by Country, City, Department, Gender, Age Range, etc.
 
-**Last Refreshed Timestamp**
+- **Last Refreshed Timestamp**
 
 Automatically updates to show when the dashboard was last refreshed.
 
