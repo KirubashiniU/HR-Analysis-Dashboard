@@ -38,5 +38,35 @@ Slice data by Country, City, Department, Gender, Age Range, etc.
 **Last Refreshed Timestamp**
 Automatically updates to show when the dashboard was last refreshed.
 
+## 🧠 Business Questions Answered
+- Which departments have the highest attrition?
 
-- 
+- What’s the average salary by job title and gender?
+
+- How diverse is the workforce across business units?
+
+- What is the employee age and tenure distribution?
+
+- Where are hiring spikes and workforce gaps?
+
+## 📅 Last Data Refresh
+This dashboard was last refreshed on: <<Last Refresh Date>>
+*(Automatically updated in Power BI using DateTime.LocalNow())*
+
+## 📌 How to Use
+1.Open the dashboard in Power BI Desktop or Power BI Service.
+
+2.Use filters and slicers on the left panel to customize views.
+
+3.Hover over visuals to view tooltips and details.
+
+4.Check the footer for the latest refresh timestamp.
+
+
+## 📈 Future Enhancements
+- Predictive attrition modeling using Power BI + Python/R
+
+- Integration with performance and engagement metrics
+
+- Trend alerts and anomaly detection
+
